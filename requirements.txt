@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+opencv-contrib-python
+numpy
+plotly
+psutil
+torch torchvision
+"monai[all]" 
+psutil plotly 
+streamlit opencv-python
