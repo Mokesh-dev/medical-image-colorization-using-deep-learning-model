@@ -2,5 +2,6 @@ streamlit
 opencv-python
 opencv-contrib-python
 numpy 
-streamlit opencv-python
+
+
 
