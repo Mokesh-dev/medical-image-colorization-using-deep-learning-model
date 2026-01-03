@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import cv2
 from pathlib import Path
 from cv2 import dnn_superres
 
@@ -289,5 +288,6 @@ if uploaded_files:
                 file_name=f"patch_colorized_{file_name}",
                 mime="image/jpeg"
             )
+
 
 
